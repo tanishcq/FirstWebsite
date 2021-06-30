@@ -1,0 +1,44 @@
+body{
+    margin: -8px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+#up{
+    position: top;
+    /* background-color: rgb(243, 111, 221); */
+}
+
+section{
+    width: 100%;
+    margin: 0 auto;
+    height: 800px;
+    background-position: top;
+    background: center/40% no-repeat url(pic1.jpg), rgb(187, 43, 79);
+}
+
+#upperText{
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 10px 0px;
+    text-transform: uppercase;
+    border-bottom: 2px solid rgb(185, 185, 185);
+    margin: 10px;
+    font-family: 'Monoton', cursive;
+    color: rgb(153, 153, 153);
+    font-size: 40px;
+}
+
+img{
+    display: inline-block;
+    width: 30%;
+    margin: calc(10%/6);
+    box-shadow: 5px 10px 10px 5px rgb(212, 212, 212);
+}
+
+p{
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    font-family: 'Raleway', sans-serif;
+}
