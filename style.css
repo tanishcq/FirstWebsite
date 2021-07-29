@@ -14,7 +14,7 @@ section{
     margin: 0 auto;
     height: 800px;
     background-position: top;
-    background: center/40% no-repeat url(pic1.jpg), rgb(187, 43, 79);
+    background: center/40% no-repeat url(pic1.jpeg), rgb(187, 43, 79);
 }
 
 #upperText{
